@@ -5,7 +5,7 @@ Advanced rank/XP system for CS 1.6 with VIP/Admin multipliers, RGB HUD effects (
 - **Game:** Counter-Strike 1.6 (AMX Mod X)
 - **Version:** 1.0
 - **Authors:** ZAKI (AAA DZ) & ITS_ZAKI ALM
-- **Repository:** https://github.com/ITS-ZAKI-ALM/TeamV10-RankSystem-Enhanced
+- **Repository:** https://github.com/its-zaki-dz/Level-Plugin-Cs1.6-1.0V
 
 ## Features
 - 50 Ranks with progressive XP requirements (up to 5,000,000 XP).
