@@ -22,8 +22,8 @@ Advanced rank/XP system for CS 1.6 with VIP/Admin multipliers, RGB HUD effects (
 - **AMX Mod X:** 1.9+ recommended
 - **Modules:** `amxmodx`, `amxmisc`, `cstrike`, `fakemeta`, `hamsandwich`, `nvault`
 - **Include:** `colorchat.inc`
-- **Sound:** Uses `warcraft3/levelupcaster.wav`
-  - Path: `cstrike/sound/warcraft3/levelupcaster.wav`
+- **Sound:** Uses `XP/levelupcaster.wav`
+  - Path: `cstrike/sound/XP/levelupcaster.wav`
   - You can change the sound via the defines in the source.
 
 ## Installation
